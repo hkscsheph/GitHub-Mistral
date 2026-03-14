@@ -1,0 +1,5 @@
+{
+  "defaultProvider": "mistral",
+  "defaultModel": "mistral-large-latest",
+  "defaultThinkingLevel": "low"
+}
